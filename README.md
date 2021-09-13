@@ -7,12 +7,12 @@ Git project created on Sept. 12, 2021.
 (remote repository) pdsnd_github
 
 ### Description
-1. Project 3 - This project is to demonstrate Git and Github proficiency by:
-2. forking a repository on Github and setting up a local repository,
-3. improving the associated documentation (including this file),
-4. refactoring the Bikeshare_2.py code,
-5. merging branches to bring all the changes together, and
-6. pushing the changes back up to the remote repository.
+Project 3 - This project is to demonstrate Git and Github proficiency by:
+1. forking a repository on Github and setting up a local repository,
+2. improving the associated documentation (including this file),
+3. refactoring the Bikeshare_2.py code,
+4. merging branches to bring all the changes together, and
+5. pushing the changes back up to the remote repository.
 
 ### Files used
 pdsnd_github (remote repository)
