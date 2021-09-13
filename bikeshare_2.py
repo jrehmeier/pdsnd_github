@@ -121,7 +121,11 @@ def load_data(city, month, day):
     return df
 
 def raw_data(df):
-    """Asks if user would like to see 5 rows of raw data at a time"""
+    """
+    Asks if user would like to see 5 rows of raw data at a time.
+    Returns the next 5 lines of data until either no more data is available or the user
+    specifies that they do not wish to continue.
+    """
 
     raw_data = str(input('Would you like to see the first 5 lines of raw data? ("y" or "n"): '))
     if raw_data == 'y' or raw_data == 'yes':
